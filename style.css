@@ -50,10 +50,12 @@ width: 878px;
     justify-content: center;
     align-items: center;
     background-color: #0D132105;
+    border-radius: 20px;
 }
 .father{
     width: 826px;
     height: 950px;
+    border-radius: 20px;
 }
 .child1{
     width: 732px;
@@ -153,6 +155,7 @@ background-image: url(Group\ 3.png);
     margin-top: 70px;
     background-repeat: no-repeat;
     background: cover;
+   
 }
 .section3{
     width: 1020px;
@@ -181,6 +184,7 @@ background-image: url(Group\ 3.png);
 width: 324px;
 height: 300px;
 background-color: #FF4C1E0D;
+border-radius: 20px;
 }
 .html-child{
     width: 244px;
@@ -200,6 +204,7 @@ background-color: #FF4C1E0D;
 width: 324px;
 height: 300px;
 background-color: #004CE80D;
+border-radius: 20px;
 }
 .css-child{
     width: 244px;
@@ -220,6 +225,7 @@ background-color: #004CE80D;
 width: 324px;
 height: 300px;
 background-color: #FFDF000D;
+border-radius: 20px;
 }
 .javascript-child{
     width: 244px;
@@ -234,4 +240,30 @@ background-color: #FFDF000D;
 }
 .text4{
     margin-top: 40px;
+}
+.footer{
+    width: 1020px;
+    height: 314px;
+    margin-left: 165px;
+    border-radius: 20px;
+    background-image: url(handshake2.jpg);
+    background-repeat: no-repeat;
+    background: cover;
+    opacity: .9;
+}
+.text-content{
+    width: 924px;
+    height: 186px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.placeholder{
+    padding: 10px;
+    width: 450px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.submit{
+    padding: 8px;
+    border-radius: 10px;
 }
