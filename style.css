@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 }
+body{
+    font-family: Azeret Mono ,sans-serif;
+    
+    } 
 .banner{
     width: 1320px;
     height: 652px;
@@ -36,4 +40,87 @@ width: 878px;
     background-color: #0D1321;
     margin-top: 53px;
     margin-left: 355px;
+}
+.section1{
+    width: 1020px;
+    height: 1050px;
+    margin-left: 165px;
+    margin-top: 50px;
+    margin-top: 50px; display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0D132105;
+}
+.father{
+    width: 826px;
+    height: 850px;
+}
+.child1{
+    width: 732px;
+    height: 115px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto; 
+    margin-bottom: 20px;
+    text-align: center;
+   
+}
+.child2{
+    width: 826px;
+    height: 216px;
+    display: flex;
+}
+.button1{
+    margin-top: 20px;
+   
+}
+.child2-text{
+    width: 413px;
+    height: 216px;
+    color: #0D1321B3;
+}
+.child2-img2{
+    width: 274.17px;
+    height: 216px;
+    margin-left: 150px;
+    background-image: url(Layer_1.png);
+
+}
+.child3{
+    width: 826px;
+    height: 216px;
+    color: #0D1321B3;
+    display: flex;
+}
+.child3-text{
+    width: 450px;
+}
+.button2{
+    margin-top: 20px;
+}
+.child-img4{
+width: 240px;
+height: 212px;
+background-image: url(Group\ 3.png);
+}
+.child4{
+    width: 826px;
+    height: 216px;
+    display: flex;
+}
+.child4-text{
+   width: 357px;
+   height: 216px;
+   color: #0D1321B3;
+}
+.button3{
+    margin-top: 20px;
+}
+.child4-img{
+    width: 240px;
+    height: 212px;
+   margin-left: 220px;
+   background-image: url(Group\ 4.png);
 }
